@@ -21,13 +21,15 @@ body {
 	width: 90%;
 	height: 130px;
 	margin: 0 auto 0 auto;
-	padding-top: 230px;
+	padding-top: 210px;
 	background-image: url(images/background-top.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
 	color: #000033;
 	text-align: center;
+	font-size: 30px;
+
 }
 
 .menu-item {
@@ -41,23 +43,25 @@ body {
 }
 
 .menu-item img {
-	width: 36px;
-	height: 36px;
+	width: 90px;
+	height: 90px;
 	border-radius: 50%;
 }
 
 #menu-item-eu {
-	right: 300px;
+	right: 150px;
+	top: 180px;
 }
 
 #menu-item-ele {
-	left: 300px;
+	left: 150px;
+	top: 180px;
 }
 
 .main-content {
 	width: 700px;
 	margin: 30px auto 0 auto;
-	padding: 20px;
+	padding: 2px;
 	text-align: center;
 	line-height: 25px;
 	color: #F6CECE;
@@ -74,3 +78,5 @@ body {
 	color: #DF7401;
 	font-family: jester, cuckoo, courier
 }
+
+.
